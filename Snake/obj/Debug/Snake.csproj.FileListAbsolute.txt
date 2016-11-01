@@ -1,0 +1,1 @@
+C:\Users\mavlik\GIT\Snake\Snake\bin\Debug\Snake.exe.config
